@@ -1,4 +1,4 @@
-def changes(a, b)
+def changes(a, b):
     return a + b
 
 
